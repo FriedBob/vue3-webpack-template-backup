@@ -4,7 +4,7 @@
   </h2> 
   <img
     src="~assets/logo.png" 
-    alt="HEROPY" />
+    alt="FRIEDBOB" />
 </template>
 
 <script>
